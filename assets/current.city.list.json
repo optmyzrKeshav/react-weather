@@ -1,0 +1,215 @@
+[
+  {
+    "id": 14256,
+    "coord": {
+      "lon": 48.570728,
+      "lat": 34.790878
+    },
+    "country": "IR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 132142
+    },
+    "langs": [
+      {
+        "de": "Azad Shahr"
+      },
+      {
+        "fa": "آزادشهر"
+      }
+    ],
+    "name": "Azadshahr",
+    "stat": {
+      "level": 1.0,
+      "population": 514102
+    },
+    "stations": [
+      {
+        "id": 7030,
+        "dist": 9,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 18918,
+    "coord": {
+      "lon": 34.058331,
+      "lat": 35.012501
+    },
+    "country": "CY",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 146615
+    },
+    "langs": [
+      {
+        "en": "Protaras"
+      },
+      {
+        "ru": "Протарас"
+      }
+    ],
+    "name": "Protaras",
+    "stat": {
+      "level": 1.0,
+      "population": 20230
+    },
+    "stations": [
+      {
+        "id": 5448,
+        "dist": 42,
+        "kf": 1
+      }
+    ],
+    "zoom": 6
+  },
+  {
+    "id": 23814,
+    "coord": {
+      "lon": 47.055302,
+      "lat": 34.383801
+    },
+    "country": "IR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 128222
+    },
+    "langs": [
+      {
+        "fa": "کهریز"
+      }
+    ],
+    "name": "Kahriz",
+    "stat": {
+      "level": 1.0,
+      "population": 766706
+    },
+    "stations": [
+      {
+        "id": 7022,
+        "dist": 10,
+        "kf": 1
+      }
+    ],
+    "zoom": 7
+  },
+  {
+    "id": 24851,
+    "coord": {
+      "lon": 47.9725,
+      "lat": 34.073399
+    },
+    "country": "IR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 125605
+    },
+    "langs": [
+      {
+        "fa": "نور آباد"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/Nurabad%2C_Lorestan"
+      },
+      {
+        "ru": "Нурабад"
+      }
+    ],
+    "name": "Nurabad",
+    "stat": {
+      "level": 1.0,
+      "population": 73528
+    },
+    "stations": [
+      {
+        "id": 7022,
+        "dist": 80,
+        "kf": 1
+      },
+      {
+        "id": 7024,
+        "dist": 75,
+        "kf": 1
+      },
+      {
+        "id": 7073,
+        "dist": 49,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 32723,
+    "coord": {
+      "lon": 52.309422,
+      "lat": 35.23455
+    },
+    "country": "IR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 116401
+    },
+    "langs": [
+      {
+        "fa": "ايستگاه گرمسار"
+      }
+    ],
+    "name": "Istgah-e Garmsar",
+    "stat": {
+      "level": 1.0,
+      "population": 49491
+    },
+    "stations": [
+      {
+        "id": 7036,
+        "dist": 99,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 32767,
+    "coord": {
+      "lon": 51.56889,
+      "lat": 35.439442
+    },
+    "country": "IR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 110791
+    },
+    "langs": [
+      {
+        "fa": "قرچك"
+      }
+    ],
+    "name": "Qarchak",
+    "stat": {
+      "level": 1.0,
+      "population": 251834
+    },
+    "stations": [
+      {
+        "id": 7032,
+        "dist": 36,
+        "kf": 1
+      },
+      {
+        "id": 7074,
+        "dist": 48,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  }
+]
